@@ -1,6 +1,7 @@
 # seat_finder
-
-A new Flutter project.
+I have created a Flutter app that shows the birth map of mostly Indian trains.
+It shows the type of birth with its position in the Bogie.
+A search bar can be seen at the top after the App bar, which allows user to input their seat number; after that, the page will get  scrolled to show the location of that seat.
 
 ## Getting Started
 

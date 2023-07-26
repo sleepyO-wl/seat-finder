@@ -1,4 +1,7 @@
-# seat_finder
+# Screenshots
+!(https://github.com/sleepyO-wl/seat-finder/blob/master/screenshots/Screenshot_2023-07-26-23-56-47-11_fae772ce474f0a9964c2f8abfcdc199f.jpg)(https://github.com/sleepyO-wl/seat-finder/blob/master/screenshots/Screenshot_2023-07-26-23-57-07-41_fae772ce474f0a9964c2f8abfcdc199f.jpg)
+
+# Seat Finder
 I have created a Flutter app that shows the birth map of mostly Indian trains.
 It shows the type of birth with its position in the Bogie.
 A search bar can be seen at the top after the App bar, which allows user to input their seat number; after that, the page will get  scrolled to show the location of that seat.
